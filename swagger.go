@@ -160,7 +160,7 @@ const swagger_index_templ = `<!-- HTML for static distribution bundle build -->
        background: #fafafa;
     }
 		.wrapper section section {
-       visibility: hidden;
+       display: none;
 		}
   </style>
 </head>
