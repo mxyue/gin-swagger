@@ -156,9 +156,12 @@ const swagger_index_templ = `<!-- HTML for static distribution bundle build -->
     }
 
     body {
-      margin:0;
-      background: #fafafa;
+       margin:0;
+       background: #fafafa;
     }
+		.wrapper section section {
+       visibility: hidden;
+		}
   </style>
 </head>
 
